@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 namespace HumanResource.Models
 {
     // Models used as parameters to AccountController actions.
-
+    //testing
     public class AddExternalLoginBindingModel
     {
         [Required]
