@@ -18,5 +18,7 @@ namespace HumanResource.Models
         List<IEducation> Educations { get; set; }
 
         String Notes { get; set;  }
+
+        List<IPerson> Parents { get; set; } 
     }
 }
